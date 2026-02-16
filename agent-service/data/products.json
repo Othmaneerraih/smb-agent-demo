@@ -1,0 +1,92 @@
+[
+  {
+    "id": "sku_run_001",
+    "title": "RunLite 2",
+    "description": "Lightweight running shoe for daily training",
+    "price": 89,
+    "currency": "USD",
+    "stock_status": "in_stock",
+    "attributes": {
+      "Category": "Shoes",
+      "Color": "Blue",
+      "Weight": "240g"
+    },
+    "image": "https://shop.example.com/images/sku_run_001.jpg",
+    "product_url": "https://shop.example.com/products/runlite-2"
+  },
+  {
+    "id": "sku_run_002",
+    "title": "RunMax Pro",
+    "description": "Cushioned running shoe for long distances",
+    "price": 99,
+    "currency": "USD",
+    "stock_status": "low_stock",
+    "attributes": {
+      "Category": "Shoes",
+      "Color": "Black",
+      "Weight": "255g"
+    },
+    "image": "https://shop.example.com/images/sku_run_002.jpg",
+    "product_url": "https://shop.example.com/products/runmax-pro"
+  },
+  {
+    "id": "sku_jkt_001",
+    "title": "Blue Storm Jacket",
+    "description": "Water resistant lightweight jacket",
+    "price": 79,
+    "currency": "USD",
+    "stock_status": "in_stock",
+    "attributes": {
+      "Category": "Jacket",
+      "Color": "Blue",
+      "Material": "Polyester"
+    },
+    "image": "https://shop.example.com/images/sku_jkt_001.jpg",
+    "product_url": "https://shop.example.com/products/blue-storm-jacket"
+  },
+  {
+    "id": "sku_tee_001",
+    "title": "UltraSoft Cotton Tee",
+    "description": "Everyday cotton t-shirt",
+    "price": 19.99,
+    "currency": "USD",
+    "stock_status": "in_stock",
+    "attributes": {
+      "Category": "T-Shirt",
+      "Color": "White",
+      "Fit": "Regular"
+    },
+    "image": "https://shop.example.com/images/sku_tee_001.jpg",
+    "product_url": "https://shop.example.com/products/ultrasoft-cotton-tee"
+  },
+  {
+    "id": "sku_bag_001",
+    "title": "Trail Utility Bag",
+    "description": "Compact day bag",
+    "price": 49,
+    "currency": "USD",
+    "stock_status": "preorder",
+    "attributes": {
+      "Category": "Bag",
+      "Color": "Green",
+      "Capacity": "18L"
+    },
+    "image": "https://shop.example.com/images/sku_bag_001.jpg",
+    "product_url": "https://shop.example.com/products/trail-utility-bag"
+  },
+  {
+    "id": "sku_hat_001",
+    "title": "Sun Runner Cap",
+    "description": "Breathable running cap",
+    "price": 24,
+    "currency": "USD",
+    "stock_status": "in_stock",
+    "attributes": {
+      "Category": "Accessories",
+      "Color": "Blue",
+      "Material": "Mesh"
+    },
+    "image": "https://shop.example.com/images/sku_hat_001.jpg",
+    "product_url": "https://shop.example.com/products/sun-runner-cap"
+  }
+]
